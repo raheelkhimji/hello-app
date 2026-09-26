@@ -12,7 +12,7 @@ export default function Home() {
       }}
     >
       <h1 style={{ fontSize: "2.5rem", lineHeight: 1.4, maxWidth: "800px" }}>
-        Miqdad, thanks a lot! Alhamd managed to make my first Vercel page and
+        Thanks a lot! Alhamd managed to make my first Vercel page and
         it&apos;s live! May Allah bless you
       </h1>
     </main>
